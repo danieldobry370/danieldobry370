@@ -1,7 +1,7 @@
 <h1>Hi! 👋</h1>
 - 👋 My name is Daniel Dobrý and I'm a sound engineer, graphic designer and webdeveloper.
 - 👀 I’m interested in modular synthesizers, investigating artificial intelligence, designing complex web systems.
-- 🌱 I’m currently learning Vue.js, Nette Framework, Docker and Composer.
+- 🌱 I’m currently learning Vue.js and Nette.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 If you're interested in anything else, you can follow me on my <a href="https://www.linkedin.com/in/daniel-dobr%C3%BD-867082138/">LinkedIn</a> or <a href="https://www.behance.net/danieldobry">Behance</a> account.
 
