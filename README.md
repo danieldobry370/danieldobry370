@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on web projects.<br>
 - 📫 If you're interested in anything else, you can follow me on my <a href="https://www.linkedin.com/in/daniel-dobr%C3%BD-867082138/">LinkedIn</a> or my <a href="https://www.behance.net/danieldobry">Behance</a> profile.<br><br>
 
-I am a 23-year old student of the Interactive Media Theory at Masaryk University in Brno, where most of my work is currently produced. I have a long-term interest in sound, graphics and web programming.
+I am a 24-year old student of the Interactive Media Theory at Masaryk University in Brno, where most of my work is currently produced. I have a long-term interest in sound, graphics and web programming.
