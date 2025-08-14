@@ -1,5 +1,5 @@
 <h1>Hi! 👋</h1>
-- 👋 My name is Daniel Dobrý and I'm a project manager and webdeveloper.<br>
+- 👋 My name is Daniel Dobrý and I'm  webdeveloper and online manager.<br>
 - 👀 I’m interested in new trends in artificial intelligence, app development, and designing complex web systems.<br>
 - 🌱 I’m currently learning React and React Native<br>
 - 💞️ I’m looking to collaborate on web projects.<br>
